@@ -6,11 +6,11 @@
 
 结果：
 
-![](img\result.PNG)
+![](img/result.PNG)
 
 输出：
 
-[result.pdf](result\result.pdf)
+[result.pdf](result/result.pdf)
 
 ## Answer：
 
@@ -29,11 +29,11 @@
 
 结果：
 
-![](img\result2.PNG)
+![](img/result2.PNG)
 
 输出：
 
-[result2.pdf](result\result2.pdf)
+[result2.pdf](result/result2.pdf)
 
 ## Answer：
 8. 第一次访问无
@@ -48,11 +48,11 @@
 
 结果：
 
-![](img\result3.PNG)
+![](img/result3.PNG)
 
 输出：
 
-[result3.pdf](result\result3.pdf)
+[result3.pdf](result/result3.pdf)
 
 ## Answer：
 12. 发送了3个HTTP GET请求消息，第144个数据包含有美国权利法案的消息。
@@ -67,11 +67,11 @@
 
 结果：
 
-![](img\result4.PNG)
+![](img/result4.PNG)
 
 输出：
 
-[result4.pdf](result\result4.pdf)
+[result4.pdf](result/result4.pdf)
 
 ## Answer：
 16. 浏览器发送了3个HTTP GET请求消息，这些GET请求发送到128.119.245.12。
@@ -84,11 +84,11 @@
 
 结果：
 
-![](img\result5.PNG)
+![](img/result5.PNG)
 
 输出：
 
-[result5.pdf](result\result5.pdf)
+[result5.pdf](result/result5.pdf)
 ## Answer：
 18. 初始响应的状态码：401  短语：Unauthorized
 19. 新包含了：Authorization: Basic Y2h1bjoxMjM0NTY=\r\n
