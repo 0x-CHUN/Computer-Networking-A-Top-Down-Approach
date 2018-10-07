@@ -4,7 +4,7 @@
 3. 使用过滤器，过滤除HTTP的协议
 
 结果：
-![](result.png)
+![](result.PNG)
 
 ## Answer
 1. TCP、TLSv1.2、DNS、DHCP
