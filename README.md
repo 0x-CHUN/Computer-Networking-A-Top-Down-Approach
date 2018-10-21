@@ -10,3 +10,5 @@
 ## Wireshark
 1. [Intro](/Wireshark/lab1_Intro)
 2. [HTTP](/Wireshark/lab2_HTTP)
+3. [DNS](/Wireshark/lab3_DNS)
+4. [TCP](/Wireshark/lab4_TCP)
