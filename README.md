@@ -12,4 +12,7 @@
 2. [HTTP](/Wireshark/lab2_HTTP)
 3. [DNS](/Wireshark/lab3_DNS)
 4. [TCP](/Wireshark/lab4_TCP)
-4. [UDP](/Wireshark/lab5_UDP)
+5. [UDP](/Wireshark/lab5_UDP)
+6. [IP](/Wireshark/lab6_IP)
+7. [CIMP](/Wireshark/lab7_ICMP)
+8. [ARP](/Wireshark/lab8_ARP)
